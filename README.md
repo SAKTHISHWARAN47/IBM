@@ -34,6 +34,4 @@ The script will output the analyzed text, the sentiment classification (positive
 Output
 The results of the sentiment analysis can provide valuable insights into the sentiment and emotional tone of your marketing content. This information can help you gauge the effectiveness of your marketing campaigns and make data-driven decisions to improve your marketing strategies.
 
-Acknowledgments
-NLTK: The Natural Language Toolkit for Python.
-VADER Sentiment Analysis: The VADER sentiment analysis tool used in this project.
+
